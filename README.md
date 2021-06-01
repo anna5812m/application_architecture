@@ -23,6 +23,7 @@
 
 ## Контекстное представление
 
+![](https://github.com/anna5812m/application_architecture/blob/main/ContextDiagram.png)
 
 ## Архитектура приложения
 
