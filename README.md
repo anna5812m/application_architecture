@@ -41,13 +41,13 @@ Sahana Eden высоко ценится различными сообществ�
 
 ## Литература
 
-1. Sahana Eden deployments - https://sahanafoundation.org/eden/deployments/
-2. Github language files - https://github.com/sahana/eden/tree/master/languages
-3. The website of the Sahana foundation. It contains information about who is contributing, guidelines, a blog and also links to other useful resources. - https://sahanafoundation.org/ -
-4. A book describing the system - http://archive.flossmanuals.net/_booki/sahana-eden/sahana-eden.pdf
-5. The demo of the system was used to get a good overview of the system. - http://demo.sahanafoundation.org/eden/
-6. Google Groups for discussions - https://groups.google.com/forum/#!forum/sahana-eden
-7. Twitter - https://twitter.com/sahanafoss
+1. GitBook - https://delftswa.gitbooks.io/desosa2018/content/eden/chapter.html/
+2. Sahana Eden deployments - https://sahanafoundation.org/eden/deployments/
+3. Github language files - https://github.com/sahana/eden/tree/master/languages
+4. The website of the Sahana foundation. It contains information about who is contributing, guidelines, a blog and also links to other useful resources. - https://sahanafoundation.org/ -
+5. A book describing the system - http://archive.flossmanuals.net/_booki/sahana-eden/sahana-eden.pdf
+6. The demo of the system was used to get a good overview of the system. - http://demo.sahanafoundation.org/eden/
+7. Google Groups for discussions - https://groups.google.com/forum/#!forum/sahana-eden
 8. Facebook - https://www.facebook.com/SahanaFOSS/
 9. XSLT Templates - http://eden.sahanafoundation.org/wiki/XsltTemplates -
 10. Sahana Eden Github repository - https://github.com/sahana/eden
